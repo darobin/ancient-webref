@@ -1,0 +1,5 @@
+{
+    "FOO":    { "ref": "foo" }
+,   "DAHUT":  { "ref": "dahut" }
+,   "SVG":    { "ref": "svg" }
+}
