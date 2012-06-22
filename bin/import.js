@@ -18,11 +18,15 @@ var respecBib = berjon.biblio
 ;
 
 // convert respecBib to new format, then merge
-var newRespecBib = {};
+var newRespecBib = {}, finalBib = {};
 for (var k in respecBib) newRespecBib[k] = { html: respecBib[k] };
 _.extend(newRespecBib, specDataBib, specDataRFC);
-// XXX we should sort here
-fs.writeFileSync("/Projects/webref/bibrefs.json", JSON.stringify(newRespecBib, null, 4));
+// sort the keys
+var keys = [];
+for (var k in newRespecBib) keys.push(k);
+keys.sort();
+for (var i = 0, n = keys.length; i < n; i++) finalBib[keys[i]] = newRespecBib[keys[i]];
+fs.writeFileSync("/Projects/webref/bibrefs.json", JSON.stringify(finalBib, null, 4));
 
 // process xrefBase by import
 var newXref = {};
