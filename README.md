@@ -1,4 +1,4 @@
-webref
-======
+Web Specifications Reference Database
+=====================================
 
-References for Web Specifications (http://webref.herokuapp.com/)
+All the details you need are at: http://webref.herokuapp.com/

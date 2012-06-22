@@ -21,6 +21,7 @@ var respecBib = berjon.biblio
 var newRespecBib = {};
 for (var k in respecBib) newRespecBib[k] = { html: respecBib[k] };
 _.extend(newRespecBib, specDataBib, specDataRFC);
+// XXX we should sort here
 fs.writeFileSync("/Projects/webref/bibrefs.json", JSON.stringify(newRespecBib, null, 4));
 
 // process xrefBase by import
