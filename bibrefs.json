@@ -1572,6 +1572,14 @@
     "QNAMES": {
         "html": "N. Walsh. <a href=\"http://www.w3.org/2001/tag/doc/qnameids-2004-03-17\"><cite>Using Qualified Names (QNames) as Identifiers in XML Content</cite></a> 17 March, 2004. TAG Finding. URL: <a href=\"http://www.w3.org/2001/tag/doc/qnameids-2004-03-17\">http://www.w3.org/2001/tag/doc/qnameids-2004-03-17</a> "
     },
+    "QUOTA-API": {
+        "href": "http://www.w3.org/TR/quota-api/",
+        "title": "Quota Management API",
+        "authors": [
+            "Kinuko Yasuda"
+        ],
+        "publisher": "W3C"
+    },
     "RANDOM": {
         "html": "D.  Eastlake, S. Crocker, J. Schiller. <a href=\"http://www.ietf.org/rfc/rfc4086.txt\"><cite>Randomness Recommendations for Security.</cite></a>. IETF RFC 4086. June 2005. URL: <a href=\"http://www.ietf.org/rfc/rfc4086.txt\">http://www.ietf.org/rfc/rfc4086.txt</a>"
     },
