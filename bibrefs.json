@@ -1332,6 +1332,11 @@
     "OMA-DM": {
         "html": "<a href=\"http://www.openmobilealliance.org/Technical/release_program/dm_v1_2.aspx\"><cite>OMA Device Management V1.2 </cite></a> 17 June 2008. URL: <a href=\"http://www.openmobilealliance.org/Technical/release_program/dm_v1_2.aspx\">http://www.openmobilealliance.org/Technical/release_program/dm_v1_2.aspx</a> "
     },
+    "OMA-URI-SCHEME": {
+        "href": "http://www.openmobilealliance.org/Technical/release_program/docs/URI_Schemes/V1_0-20080626-A/OMA-TS-URI_Schemes-V1_0-20080626-A.pdf",
+        "title": "URI Schemes for the Mobile Applications Environment, Approved Version 1.0",
+        "publisher": "OMA"
+    },
     "ORIGIN": {
         "href": "http://tools.ietf.org/html/rfc6454",
         "title": "The Web Origin Concept",
