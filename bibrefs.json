@@ -1332,6 +1332,11 @@
     "OMA-DM": {
         "html": "<a href=\"http://www.openmobilealliance.org/Technical/release_program/dm_v1_2.aspx\"><cite>OMA Device Management V1.2 </cite></a> 17 June 2008. URL: <a href=\"http://www.openmobilealliance.org/Technical/release_program/dm_v1_2.aspx\">http://www.openmobilealliance.org/Technical/release_program/dm_v1_2.aspx</a> "
     },
+    "OMA-URI-SCHEME": {
+        "href": "http://www.openmobilealliance.org/Technical/release_program/docs/URI_Schemes/V1_0-20080626-A/OMA-TS-URI_Schemes-V1_0-20080626-A.pdf",
+        "title": "URI Schemes for the Mobile Applications Environment, Approved Version 1.0",
+        "publisher": "OMA"
+    },
     "ORIGIN": {
         "href": "http://tools.ietf.org/html/rfc6454",
         "title": "The Web Origin Concept",
@@ -1571,6 +1576,14 @@
     },
     "QNAMES": {
         "html": "N. Walsh. <a href=\"http://www.w3.org/2001/tag/doc/qnameids-2004-03-17\"><cite>Using Qualified Names (QNames) as Identifiers in XML Content</cite></a> 17 March, 2004. TAG Finding. URL: <a href=\"http://www.w3.org/2001/tag/doc/qnameids-2004-03-17\">http://www.w3.org/2001/tag/doc/qnameids-2004-03-17</a> "
+    },
+    "QUOTA-API": {
+        "href": "http://www.w3.org/TR/quota-api/",
+        "title": "Quota Management API",
+        "authors": [
+            "Kinuko Yasuda"
+        ],
+        "publisher": "W3C"
     },
     "RANDOM": {
         "html": "D.  Eastlake, S. Crocker, J. Schiller. <a href=\"http://www.ietf.org/rfc/rfc4086.txt\"><cite>Randomness Recommendations for Security.</cite></a>. IETF RFC 4086. June 2005. URL: <a href=\"http://www.ietf.org/rfc/rfc4086.txt\">http://www.ietf.org/rfc/rfc4086.txt</a>"
